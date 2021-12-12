@@ -1,0 +1,61 @@
+*{
+
+margin:0px;
+  padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+text-align:center;
+}
+
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #da0b3e;
+  position: sticky;
+}
+
+li {
+  float: left;
+  position: sticky;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.titre{
+  text-align: center;
+  background-color: #c80434;
+  color:yellow;
+padding: 15px;
+}
+.logo-region{
+  width: 6%;
+  float: left;
+  position: absolute;
+  top: 10px;
+  left: 8px; 
+}
+
+.Uvoji{
+  position:fixed;
+  float: left;
+  width: 40%;
+  margin-left: 5%;
+  margin-top: 10%;
+  font-size: 120%;
+
+}
+
+.Aquatech{
+  position:fixed;
+  float: right;
+  width: 40%;
+  margin-left: 50%;
+  margin-top: 10%;
+  font-size: 120%;
+}

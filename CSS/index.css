@@ -1,0 +1,101 @@
+*{
+
+margin:0px;
+  padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+text-align:center;
+}
+
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #da0b3e;
+  position: sticky;
+}
+
+li {
+  float: left;
+  position: sticky;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.titre{
+  text-align: center;
+  background-color: #c80434;
+  color:yellow;
+padding: 15px;
+}
+.logo-region{
+  width: 6%;
+  float: left;
+  position: absolute;
+  top: 10px;
+  left: 8px; 
+}
+
+.titre2{
+
+text-align: center;
+margin-top: 3%;
+text-decoration: underline;
+
+}
+
+
+
+
+
+.Uvoji{
+  position:fixed;
+  float: left;
+  width: 40%;
+  margin-left: 5%;
+  margin-top: 8%;
+  font-size: 120%;
+}
+
+.Aquatech{
+  position:fixed;
+  float: right;
+  width: 40%;
+  margin-left: 50%;
+  margin-top: 8%;
+  font-size: 120%;
+}
+}
+
+
+
+
+input {
+  position:fixed;
+  background-color: #da0b3e; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top:90%;
+  margin-bottom: 5%;
+  margin-left:-25%;
+  width: 45%;
+}
+
+input:hover{
+
+  border-radius:15px;
+  transition-duration: 1s;
+
+}
+
+
